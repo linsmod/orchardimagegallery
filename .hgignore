@@ -1,0 +1,7 @@
+relre:_ReSharper*
+glob:Mello.ImageGallery/obj
+glob:Mello.ImageGallery.Tests/bin/*
+glob:Mello.ImageGallery.Tests/obj/*
+glob:*.suo
+glob:*.user
+glob:Mello.ImageGallery/bin/*
